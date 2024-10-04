@@ -1,7 +1,7 @@
 # Belajar Analisis Data dengan Python
 # Bike Sharing Dataset
 
-![Bike Sharing Dataset Dashboard](https://github.com/NerissaNikmatul/E-Commerce-/blob/main/Picture/Screenshot%202024-10-02%20204213.png)
+![Bike Sharing Dataset Dashboard](picture)
 
 ## Deskripsi
 Proyek ini bertujuan untuk menganalisis dataset sewa sepeda berdasarkan hari dan jam. Dataset mencakup informasi sewa sepeda dengan fitur seperti musim, suhu, kelembaban, dan kecepatan angin. Analisis ini bertujuan untuk memahami pola dalam data dan memberikan wawasan berguna untuk manajemen dan perencanaan sistem sewa sepeda.
