@@ -17,6 +17,16 @@ Proyek ini bertujuan untuk menganalisis dataset sewa sepeda berdasarkan hari dan
 ```
 streamlit run dashboard.py
 ```
+
+## Setup Environment - Shell/Terminal
+```
+mkdir Bike_Sharing_Dataset
+cd BIke_Sharing_Dataset
+pipenv install
+pipenv shell
+pip install -r requirements.txt
+```
+
 ## Penggunaan
 ```
 Bisa dengan kunjungi website (https://bike-sharing-dataset-rissa.streamlit.app/)
